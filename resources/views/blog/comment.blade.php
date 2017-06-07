@@ -95,7 +95,11 @@
                     <button type="submit" class="btn btn-lg btn-success">Envoyer</button>
                 </div>
                 <div class="pull-right">
+<<<<<<< HEAD
                     <p class="text-muted">
+=======
+                    <p class="text-muted"> 
+>>>>>>> master
                         <span class="required">*</span>
                         <em>Indiques les champs obligatoires</em>
                     </p>
