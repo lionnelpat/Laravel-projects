@@ -91,8 +91,6 @@
                     <li class="next"><a href="#">précedent <span aria-hidden="true">→</span></a></li>
                   </ul>
                 </nav>
-=======
->>>>>>> master
             </div>
 
             @include('layouts.sidebar')
